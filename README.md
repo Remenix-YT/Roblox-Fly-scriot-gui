@@ -18,7 +18,7 @@ Gui made by me Remenix-YT
 
 Youtube Remenix-YT 
 
-Discord Takanashi#6779
+Discord KlausJäger#6779 
 
 Join the Discord server https://discord.gg/wrFzprkmaS
 

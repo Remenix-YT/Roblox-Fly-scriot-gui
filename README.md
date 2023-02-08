@@ -10,7 +10,7 @@ Must use an exploit of some sort to run like Krnl or Comet
 
 Go to the Fly script up where the files are 
 located and press on the files named fly script 
-than copy the fly script from there.
+than copy the fly script from there. or download it 
 
 # Credits
 

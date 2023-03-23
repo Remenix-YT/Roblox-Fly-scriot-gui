@@ -18,8 +18,13 @@ Gui made by me Remenix-YT
 
 Youtube Remenix-YT 
 
-Discord KlausJäger#6779 
+Discord KlausJäger#1743
 
 Join the Discord server https://discord.gg/wrFzprkmaS
 
 Enjoy the script 
+
+
+# Updates 
+
+Added Loading String version of the script so it works better and it is updated 
